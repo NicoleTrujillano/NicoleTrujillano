@@ -9,8 +9,8 @@ Oi! Sou a Nicole, tenho 19 anos e estou cursando Análise e Desenvolvimento de S
 ## 🚀 Tecnologias que utilizo  
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
 </div>
 
 ## 📊 GitHub Stats  
