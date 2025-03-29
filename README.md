@@ -2,8 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Oi! Sou a Nicole, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na FATEC Guarulhos. Sou apaixonada por tecnologia e desenvolvimento de software, sempre buscando aprender mais sobre programação,
-banco de dados e desenvolvimento mobile. Gosto de desafios e estou em busca de oportunidades para crescer na área e colocar em prática tudo o que venho estudando.
+Oi! Sou a Nicole, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na FATEC Guarulhos. Sou apaixonada por tecnologia e desenvolvimento de software, sempre buscando aprender mais sobre programação. Gosto de desafios e estou em busca de oportunidades para crescer na área e colocar em prática tudo o que venho estudando.
 
 ---
 
