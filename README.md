@@ -13,7 +13,5 @@ Oi! Sou a Nicole, tenho 19 anos e estou cursando Análise e Desenvolvimento de S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
 </div>
 
-## 📊 GitHub Stats  
-![Nicole's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoleTrujillano&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleTrujillano&layout=compact&theme=radical)
+
 
