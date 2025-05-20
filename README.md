@@ -9,6 +9,7 @@ Oi! Sou a Nicole, tenho 19 anos e estou cursando Análise e Desenvolvimento de S
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8c52ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-trujillano-292aa4358/)
 [![GitHub](https://img.shields.io/badge/GitHub-8c52ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicoleTrujillano)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-8c52ff?style=for-the-badge)](https://web.dio.me/users/nicoletrujillano/)
+[![Perfil CodePen](https://img.shields.io/badge/-Meu%20Perfil%20na%20CodePen-8c52ff?style=for-the-badge)](https://codepen.io/nick_nicole/pens/showcase)
 
 ## Habilidades
 ![Java](https://img.shields.io/badge/java-8c52ff.svg?style=for-the-badge&logo=openjdk&logoColor=white)
